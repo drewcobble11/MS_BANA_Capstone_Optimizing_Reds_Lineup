@@ -20,7 +20,7 @@ This project answers:
 
 ---
 
-## Why Machine Learning / Simulation?  
+## Why Monte Carlo Simulation?  
 Traditional analytical approaches struggle to capture the sequential and probabilistic nature of baseball innings. A Monte Carlo simulation allows us to:
 
 - Model inning progression dynamically  
