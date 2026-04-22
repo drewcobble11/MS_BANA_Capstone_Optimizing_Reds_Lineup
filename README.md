@@ -98,9 +98,10 @@ source("main.R")
 ### Option 2: Step-by-Step  
 
 ```r
-source("01_data_prep.R")
-source("02_event_probs.R")
-source("03_simulation.R")
+source("01_capstone data cleaning final.R")
+source("02_capstone monte carlo script.R")
+source("03_optimization script.R")
+
 ```
 
 ---
@@ -115,7 +116,7 @@ source("03_simulation.R")
 
 ##  Business Value / Impact  
 
-Optimizing lineup construction can lead to measurable improvements in run production. Even marginal gains (e.g., +5–10 runs per season) can translate into additional wins, which have significant financial and competitive implications in professional baseball.
+Optimizing lineup construction can lead to measurable improvements in run production. Even marginal gains (e.g., +5–10 runs per season) can translate into additional wins, which have significant financial and competitive implications in professional baseball. Watch the presentation please.
 
 ---
 
